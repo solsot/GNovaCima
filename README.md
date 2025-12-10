@@ -1,1 +1,1 @@
-repositrio criado para seguir as alterações efetuadas ao codigo step do .ifc
+repo criado para seguir as alterações efetuadas ao codigo step do .ifc
